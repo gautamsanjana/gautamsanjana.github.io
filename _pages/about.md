@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Human-Centered AI Researcher
 
@@ -14,13 +14,13 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: false
+#   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 As a Bullard Research Fellow at the University of Texas at Austin’s iSchool, I explore the ethical and human-centered design of AI systems, with a particular focus on explainability, trust, and human-AI collaboration. My work integrates human-computer interaction (HCI), AI ethics, and behavioral science to advance AI systems that not only enhance human capabilities but also promote responsible and community-driven innovation.

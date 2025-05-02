@@ -47,7 +47,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -260,8 +260,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Gautam]
+  first_name: [Sanjana]
 
   style: apa
   locale: en
@@ -387,7 +387,7 @@ enable_project_categories: true # enables categorization of projects into multip
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
-
+announcements.scrollable: true
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------

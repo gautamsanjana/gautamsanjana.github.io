@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-9-9
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I started as the Bullard Research Fellow at University of Texas at Austin ! I will be working with Dr. Matthew Lease.
