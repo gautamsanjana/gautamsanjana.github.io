@@ -38,51 +38,46 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "news-i-have-been-awarded-the-logic-s-liberatory-tech-fellowship-by-incite-institute-columbia-university",
-          title: 'I have been awarded the Logic(s) Liberatory Tech Fellowship by INCITE institute, Columbia...',
+          title: 'I have been awarded the Logic(s) Liberatory Tech Fellowship by INCITE Institute, Columbia...',
           description: "",
           section: "News",},{id: "news-my-workshop-papers-got-in-at-genaichi-and-hcxai-chi-2024",
-          title: 'My workshop papers got in at GenAICHI and HCXAI (CHI 2024) !',
+          title: 'My workshop papers got in at GenAICHI and HCXAI (CHI 2024)',
           description: "",
-          section: "News",},{id: "news-our-facct-paper-got-accepted-to-be-presented-in-rio-this-year",
-          title: 'Our FAccT paper got accepted to be presented in Rio this year!',
+          section: "News",},{id: "news-our-facct-paper-was-accepted-to-be-presented-in-rio-this-year-️",
+          title: 'Our FAccT paper was accepted to be presented in Rio this year 🌍✈️...',
           description: "",
-          section: "News",},{id: "news-my-paper-for-hci-nlp-workshop-at-naacl-2024-got-accepted",
-          title: 'My paper for HCI+NLP Workshop at NAACL 2024 got accepted!',
+          section: "News",},{id: "news-my-paper-for-the-hci-nlp-workshop-at-naacl-2024-was-accepted",
+          title: 'My paper for the HCI+NLP Workshop at NAACL 2024 was accepted!',
           description: "",
-          section: "News",},{id: "news-attending-chi2024-and-presented-my-works-at-genaichi-and-hcxai",
-          title: 'Attending CHI2024 and presented my works at GenAICHI and HCXAI!',
+          section: "News",},{id: "news-attended-chi-2024-and-presented-my-works-at-genaichi-and-hcxai",
+          title: 'Attended CHI 2024 and presented my works at GenAICHI and HCXAI',
           description: "",
           section: "News",},{id: "news-i-successfully-defended-my-phd-dissertation-yay",
-          title: 'I successfully defended my PhD Dissertation! (Yay!)',
+          title: 'I successfully defended my PhD dissertation (Yay!) 🎉',
           description: "",
           section: "News",},{id: "news-i-attended-my-commencement-ceremony",
-          title: 'I attended my commencement ceremony !',
+          title: 'I attended my commencement ceremony 🎓🥂',
           description: "",
           section: "News",},{id: "news-my-paper-got-accepted-at-aies-2024",
-          title: 'My paper got accepted at AIES 2024!',
+          title: 'My paper got accepted at AIES 2024 📝🎉',
           description: "",
           section: "News",},{id: "news-my-thesis-poster-got-accepted-at-cscw-2024",
-          title: 'My Thesis poster got accepted at CSCW 2024!',
+          title: 'My thesis poster got accepted at CSCW 2024 📌✨',
           description: "",
-          section: "News",},{id: "news-i-started-as-the-bullard-research-fellow-at-university-of-texas-at-austin-i-will-be-working-with-dr-matthew-lease",
-          title: 'I started as the Bullard Research Fellow at University of Texas at Austin...',
+          section: "News",},{id: "news-i-started-as-the-bullard-research-fellow-at-the-university-of-texas-at-austin-excited-to-work-with-dr-matthew-lease",
+          title: 'I started as the Bullard Research Fellow at the University of Texas at...',
           description: "",
-          section: "News",},{id: "news-presenting-my-work-on-harms-in-ai-generated-images-at-aies-2024-also-served-as-a-student-mentor",
-          title: 'Presenting my work on harms in AI generated images at AIES 2024 !...',
+          section: "News",},{id: "news-presenting-my-work-on-harms-in-ai-generated-images-at-aies-2024-️-also-served-as-a-student-mentor",
+          title: 'Presenting my work on harms in AI-generated images at AIES 2024 🖼️ Also...',
           description: "",
-          section: "News",},{id: "news-i-will-be-in-costa-rica-talking-about-my-dissertation-work-is-here-was-here-on-adaptive-learning-at-cscw-2024",
-          title: 'I will be in Costa Rica, talking about my dissertation work is here...',
+          section: "News",},{id: "news-i-will-be-in-costa-rica-talking-about-my-dissertation-work-on-adaptive-learning-at-cscw-2024-️",
+          title: 'I will be in Costa Rica, talking about my dissertation work on adaptive...',
           description: "",
-          section: "News",},{id: "projects-ai-curriculum-design",
-          title: 'AI Curriculum Design',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
-            },},{id: "projects-youtube-user-data-modelling",
+          section: "News",},{id: "projects-youtube-user-data-modelling",
           title: 'YouTube User Data Modelling',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/11_project/";
+              window.location.href = "/projects/10_project/";
             },},{id: "projects-ai-for-improving-scientific-discovery-analysis-and-interpretation",
           title: 'AI for Improving Scientific Discovery, Analysis and Interpretation',
           description: "",
@@ -129,34 +124,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%73%61%6E%6A%61%6E%61.%67%61%75%74%61%6D@%75%74%65%78%61%73.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/sanjanagautam", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=mdUH-4QAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/Sanjana08395511", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
