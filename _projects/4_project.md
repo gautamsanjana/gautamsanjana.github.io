@@ -2,7 +2,7 @@
 layout: page
 title: Nationality Bias Detection in Text Generation
 description: 
-img: 
+img: /assets/img/earth.jpg
 importance: 2
 category: Responsible AI
 ---

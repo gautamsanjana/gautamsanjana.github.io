@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My Thesis poster got accepted at CSCW 2024!
+My thesis poster got accepted at **CSCW 2024** 📌✨

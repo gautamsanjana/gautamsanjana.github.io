@@ -2,7 +2,7 @@
 layout: page
 title: Studying Annotator Bias
 description: 
-img: 
+img: /assets/img/mturk.jpg
 importance: 2
 category: Responsible AI
 ---

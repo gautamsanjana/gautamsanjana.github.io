@@ -2,7 +2,7 @@
 layout: page
 title: What’s Political on TikTok?
 description: 
-img: 
+img: /assets/img/tiktok.jpg
 importance: 2
 category: Social Media for Civic Awareness
 ---

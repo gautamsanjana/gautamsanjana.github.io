@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My workshop papers got in at GenAICHI and HCXAI (CHI 2024) !
+My workshop papers got in at **GenAICHI** and **HCXAI** (**CHI 2024**)

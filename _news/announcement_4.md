@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I attended my commencement ceremony !
+I attended my commencement ceremony 🎓🥂

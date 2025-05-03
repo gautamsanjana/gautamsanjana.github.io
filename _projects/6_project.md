@@ -2,7 +2,7 @@
 layout: page
 title: Using Twitter for Crisis Response
 description: 
-img: 
+img: /assets/img/twitter.png
 importance: 2
 category: Social Media for Civic Awareness
 ---

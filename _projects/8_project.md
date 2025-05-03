@@ -2,7 +2,7 @@
 layout: page
 title: Applying Social Constructivist Theories in Adaptive Learning
 description: 
-img: 
+img: /assets/img/adaptive_learning.png
 importance: 2
 category: Learning Community Designs
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: We Are One: Study on Distributed Communities
 description: 
-img: 
+img: /assets/img/onepenn.jpg
 importance: 2
 category: Learning Community Designs
 ---

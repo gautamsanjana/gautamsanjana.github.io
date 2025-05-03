@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending CHI2024 and presented my works at GenAICHI and HCXAI!
+Attended **CHI 2024** and presented my works at **GenAICHI** and **HCXAI**

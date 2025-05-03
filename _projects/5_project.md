@@ -2,7 +2,7 @@
 layout: page
 title: Understanding the Workings of 911 Centres during Covid-19
 description: 
-img: 
+img: /assets/img/911.jpg
 importance: 2
 category: Social Media for Civic Awareness
 ---

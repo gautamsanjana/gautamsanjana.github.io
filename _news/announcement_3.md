@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started as the Bullard Research Fellow at University of Texas at Austin ! I will be working with Dr. Matthew Lease.
+I started as the Bullard Research Fellow at the University of Texas at Austin. Excited to work with Dr. Matthew Lease!

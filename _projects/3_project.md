@@ -2,7 +2,7 @@
 layout: page
 title: Harms in Text-to-Image Generation with focus on Global South
 description: 
-img: 
+img: /assets/img/noise.jpg
 importance: 2
 category: Responsible AI
 ---

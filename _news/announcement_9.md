@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper for HCI+NLP Workshop at NAACL 2024 got accepted!
+My paper for the HCI+NLP Workshop at **NAACL 2024** was accepted!

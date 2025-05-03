@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been awarded the Logic(s) Liberatory Tech Fellowship by INCITE institute, Columbia University!
+I have been awarded the Logic(s) Liberatory Tech Fellowship by INCITE Institute, Columbia University 🏆
