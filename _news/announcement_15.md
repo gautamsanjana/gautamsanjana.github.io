@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-1-8
+date: 2025-3-21
 inline: true
 related_posts: false
 ---
 
-I have been awarded the Logic(s) Liberatory Tech Fellowship by INCITE institute, Columbia University!
+Excited for our work to presented at **CHI 2025** in Japan! 
