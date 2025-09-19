@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to give an [**invited talk**](https://ghc.anitab.org/speakers?q=sanjana#speakers) at the [**Grace Hopper Celebration (GHC)**](https://ghc.anitab.org/) in *Chicago* titled **“Designing the Future: Building Inclusive AI Through Human-Centered Thinking.”**
+Excited to give an [**invited talk**](https://ghc.anitab.org/speakers?q=sanjana#speakers) at the [**Grace Hopper Conference (GHC)**](https://ghc.anitab.org/) in *Chicago* titled **“Designing the Future: Building Inclusive AI Through Human-Centered Thinking.”**
